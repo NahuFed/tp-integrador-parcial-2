@@ -295,9 +295,9 @@ Estas funcionalidades suman puntaje adicional. **Cada grupo debe implementar UNA
 
 ## Recomendaciones de trabajo
 
-- **Semana 1:** Cargar selecciones y validar. Luego, ingreso de partidos con validaciones.
-- **Semana 2:** Funciones de estadísticas básicas. Generación de tabla de posiciones.
-- **Semana 3:** Implementar Bubble Sort. Menú interactivo. Consigna específica del grupo.
+- 1- Cargar selecciones y validar. Luego, ingreso de partidos con validaciones.
+- 2- Funciones de estadísticas básicas. Generación de tabla de posiciones.
+- 3- Implementar Bubble Sort. Menú interactivo. Consigna específica del grupo.
 - Dividir el problema en funciones pequeñas y testear cada una antes de continuar.
 - Validar entradas del usuario en todo momento.
 - Usar nombres claros para variables y funciones.
