@@ -254,29 +254,56 @@ Ingrese opción: _
 
 ---
 
-## Parte 6: Consigna específica por grupo (EXTRA)
+# Parte 6: Consigna específica por grupo
 
-Estas funcionalidades suman puntaje adicional. **Cada grupo debe implementar UNA de las siguientes consignas:**
+Además de completar todas las consignas anteriores, cada grupo deberá implementar la funcionalidad asignada mediante sorteo.
 
-**Grupo 1:** Desarrollar una función que muestre el ranking de selecciones ordenado por cantidad de goles convertidos utilizando Bubble Sort.
+##  Ejercicio 1
+Desarrollar una función que muestre el ranking de selecciones ordenado por cantidad de goles convertidos utilizando el algoritmo Bubble Sort.
 
-**Grupo 2:** Desarrollar una función que muestre el ranking de selecciones ordenado por cantidad de goles recibidos utilizando Bubble Sort.
+##  Ejercicio 2
+Desarrollar una función que muestre el ranking de selecciones ordenado por cantidad de goles recibidos utilizando el algoritmo Bubble Sort.
 
-**Grupo 3:** Desarrollar una función que muestre el ranking de selecciones ordenado por cantidad de victorias utilizando Bubble Sort.
+##  Ejercicio 3
+Desarrollar una función que muestre el ranking de selecciones ordenado por cantidad de victorias utilizando el algoritmo Bubble Sort.
 
-**Grupo 4:** Desarrollar una función que muestre el ranking de selecciones ordenado por cantidad de puntos utilizando Bubble Sort.
+##  Ejercicio 4
+Desarrollar una función que muestre el ranking de selecciones ordenado por cantidad de empates utilizando el algoritmo Bubble Sort.
 
-**Grupo 5:** Desarrollar una función que muestre el historial completo de partidos disputados por una selección ingresada por el usuario.
+##  Ejercicio 5
+Desarrollar una función que muestre el historial completo de partidos disputados por una selección ingresada por el usuario, indicando rival y resultado de cada encuentro.
 
-**Grupo 6:** Desarrollar una función que determine y muestre el partido con mayor cantidad de goles convertidos.
+##  Ejercicio 6
+Desarrollar una función que determine y muestre el partido con mayor cantidad total de goles convertidos.
 
-**Grupo 7:** Desarrollar una función que determine y muestre el partido con menor cantidad de goles convertidos.
+##  Ejercicio 7
+Desarrollar una función que determine y muestre el partido con menor cantidad total de goles convertidos.
 
-**Grupo 8:** Desarrollar una función que muestre las tres selecciones con mejor diferencia de gol.
+##  Ejercicio 8
+Desarrollar una función que muestre todas las selecciones invictas del torneo (sin derrotas), indicando además la cantidad de victorias y empates obtenidos.
 
-**Grupo 9:** Desarrollar una función que muestre las tres selecciones con peor diferencia de gol.
+##  Ejercicio 9
+Desarrollar una función que muestre todas las selecciones que no obtuvieron ninguna victoria, indicando además la cantidad de empates y derrotas obtenidos.
 
-**Grupo 10:** Desarrollar una función que determine y muestre el mejor ataque y la mejor defensa del torneo.
+##  Ejercicio 10
+Desarrollar una función que calcule y muestre el promedio de goles convertidos por cada selección.
+
+##  Ejercicio 11
+Desarrollar una función que determine y muestre la selección que participó en el partido con mayor diferencia de gol, indicando el resultado correspondiente.
+
+##  Ejercicio 12
+Desarrollar una función que determine y muestre la selección que sufrió la mayor goleada del torneo, indicando rival y resultado.
+
+##  Ejercicio 13
+Desarrollar una función que muestre la cantidad total de partidos que finalizaron en:
+
+- Victoria local.
+- Victoria visitante.
+- Empate.
+
+##  Ejercicio 14
+Desarrollar una función que determine y muestre la selección con mayor cantidad de empates obtenidos durante el torneo.
+
 
 ---
 
